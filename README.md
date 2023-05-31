@@ -7,4 +7,4 @@ This project is the MSU Coding Bootcamps first weekly challange.  The deployed w
 n/a
 
 ##Usage
-This project can be used to show how CSS rules can be consilidated and have a good semantic flow.
+This project can be used to show how CSS rules can be consilidated and have a good semantic flow. 
