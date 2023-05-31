@@ -7,7 +7,14 @@ This project is the MSU Coding Bootcamps first weekly challange.  The deployed w
 n/a
 
 ##Usage
-This project can be used to show how CSS rules can be consilidated and have a good semantic flow. The url is: https://kkurzawa.github.io/.  
+This project can be used to show how CSS rules can be consilidated and have a good semantic flow. 
+The url is: 
+https://kkurzawa.github.io/.  
+Site screenshots:
+https://github.com/KKurzawa/KKurzawa.github.io/blob/main/assets/images/Site%20pg1.png
+https://github.com/KKurzawa/KKurzawa.github.io/blob/main/assets/images/site%20pg2.png
+https://github.com/KKurzawa/KKurzawa.github.io/blob/main/assets/images/Site%20pg3.png
+
 
 ##Credits
 n/a
