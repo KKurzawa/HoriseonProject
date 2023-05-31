@@ -1,12 +1,12 @@
 # KKurzawa.github.io
 
-## Description
+## DESCRIPTION
 This project is the MSU Coding Bootcamps first weekly challange.  The deployed website displays a fixed link in the html.  The CSS rules have been consolidated and organized to follow semantic structure.  Updated code from the original files has been clearly commented on.
 
-##Installation
+##INSTALLATION
 n/a
 
-##Usage
+##USAGE
 This project can be used to show how CSS rules can be consilidated and have a good semantic flow. 
 The url is: 
 https://kkurzawa.github.io/.  
@@ -16,10 +16,10 @@ https://github.com/KKurzawa/KKurzawa.github.io/blob/main/assets/images/site%20pg
 https://github.com/KKurzawa/KKurzawa.github.io/blob/main/assets/images/Site%20pg3.png
 
 
-##Credits
+##CREDITS
 n/a
 
-##License
+##LICENSE
 MIT License
 Copyright (c) 2023 Kris Kurzawa
 
